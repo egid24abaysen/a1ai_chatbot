@@ -203,7 +203,7 @@ export default function HeroSection({ onOpenChat }) {
                   <div className="absolute -bottom-0.5 -right-0.5 w-3 h-3 rounded-full bg-emerald-400 border-2 border-[#0a1628]" />
                 </div>
                 <div>
-                  <div className="font-semibold text-sm">Neural</div>
+                  <div className="font-semibold text-sm">A1Ai ChatBot</div>
                   <div className="text-xs text-emerald-400 font-mono">online • streaming</div>
                 </div>
               </div>

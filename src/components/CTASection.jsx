@@ -61,7 +61,7 @@ export default function CTASection({ onOpenChat }) {
         <div className="flex flex-col md:flex-row items-center justify-between gap-4">
           <div className="flex items-center gap-2 text-sm text-slate-500">
             <span className="text-lg">🤖</span>
-            <span style={{ fontFamily: 'Syne, sans-serif' }}>NeuralChat</span>
+            <span style={{ fontFamily: 'Syne, sans-serif' }}>A1Ai ChatBot</span>
             <span>—</span>
             <span>Built with Groq + Llama 3.3</span>
           </div>

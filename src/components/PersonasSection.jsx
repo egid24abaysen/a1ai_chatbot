@@ -6,7 +6,7 @@ import { PERSONAS } from '../utils/groq'
 gsap.registerPlugin(ScrollTrigger)
 
 const PERSONA_DEMOS = {
-  assistant: "Hello! I'm Neural, your intelligent AI companion. I can help you understand complex topics, write code, analyze data, or simply have a thoughtful conversation. What shall we explore today?",
+  assistant: "Hello! I'm A1Ai ChatBot, your intelligent AI companion. I can help you understand complex topics, write code, analyze data, or simply have a thoughtful conversation. What shall we explore today?",
   coder: "Oh great, another dev who needs help. Fine. I'll look at your spaghetti code and *sigh* fix it properly. But seriously, have you tried console.log debugging? ...Actually, let me just show you the RIGHT way to do this.",
   coach: "LISTEN UP! Today is NOT just another day — it's YOUR day to BREAKTHROUGH! Every challenge is just an opportunity wearing a disguise. What goal are we CRUSHING today?!",
   philosopher: "The question itself contains multitudes... To understand something, must we not first question what it means to understand? As Socrates knew, wisdom begins with acknowledging our ignorance. What truth are you seeking?"

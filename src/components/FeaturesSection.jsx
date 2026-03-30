@@ -16,7 +16,7 @@ const FEATURES = [
     icon: '🎭',
     color: '#06b6d4',
     title: 'Persona Engine',
-    desc: 'Switch between Neural, Byte (sarcastic coder), Apex (motivational coach), and Sage (philosopher) instantly.',
+    desc: 'Switch between A1Ai ChatBot, Byte (sarcastic coder), Apex (motivational coach), and Sage (philosopher) instantly.',
     badge: '4 Personas'
   },
   {
