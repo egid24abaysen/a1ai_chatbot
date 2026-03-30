@@ -149,7 +149,7 @@ export default function HeroSection({ onOpenChat }) {
           </h1>
 
           <p ref={subtitleRef} className="text-lg text-slate-400 leading-relaxed mb-10 max-w-lg">
-            a1ai ChatBot is your AI-powered intelligence interface. Switch personas, stream responses in real-time, and explore ideas at the speed of thought.
+            A1Ai ChatBot is your AI-powered intelligence interface. Switch personas, stream responses in real-time, and explore ideas at the speed of thought.
           </p>
 
           <div ref={ctaRef} className="flex flex-wrap gap-4">

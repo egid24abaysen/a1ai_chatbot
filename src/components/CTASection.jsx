@@ -43,7 +43,7 @@ export default function CTASection({ onOpenChat }) {
           onClick={onOpenChat}
           className="btn-glow relative px-12 py-5 rounded-2xl font-bold text-xl bg-violet-700 hover:bg-violet-600 transition-colors duration-200 group inline-flex items-center gap-3"
         >
-          a1ai ChatChat
+          A1Ai ChatBot
           <span className="text-2xl group-hover:translate-x-1 transition-transform duration-200">→</span>
         </button>
 
