@@ -32,7 +32,7 @@ export default function Navigation({ onOpenChat }) {
             <div className="absolute -inset-1 bg-gradient-to-br from-violet-600 to-cyan-500 rounded-xl opacity-30 blur-sm" />
           </div>
           <span className="font-bold text-lg tracking-tight" style={{ fontFamily: 'Syne, sans-serif' }}>
-            a1ai Chat<span className="text-violet-400">Bot</span>
+            A1Ai Chat<span className="text-violet-400">Bot</span>
           </span>
         </div>
 
